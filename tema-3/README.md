@@ -1,1 +1,1 @@
-![image](exemplu.png)
+![image](adaugare_modificare_stergere.png)
