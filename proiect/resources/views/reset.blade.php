@@ -5,6 +5,7 @@
         <div class="col-sm-4 col-sm-offset-4">
             <form action="reset" method="POST">
                 @csrf
+                
                 <div class="form-group">
                     <label for="exampleInputEmail1">Email address</label>
                     <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email">

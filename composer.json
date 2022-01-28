@@ -1,0 +1,5 @@
+{
+    "require": {
+        "haruncpi/laravel-h": "^0.0.3"
+    }
+}
