@@ -8,8 +8,11 @@ use App\Models\User;
 use Session;
 use Illuminate\Support\Facades\DB;
 
+
 class UserController extends Controller
 {
+
+    
 
     function login(Request $req)
     {
@@ -101,6 +104,8 @@ class UserController extends Controller
     public function cautare(Request $req)
     {
 
+    
+
         $idMarca = $req->marca;
         $idPiesa = $req->piese;
         
@@ -118,6 +123,8 @@ class UserController extends Controller
         
         //return redirect('/cautare');
     }
+
+   
 
 
 }

@@ -6,9 +6,6 @@
 " width="500"></a></p><br>
 
 
-
-
-
 <table class="table">
     <thead class="thead-dark">
         <th scope="col">Idx</th>
@@ -45,10 +42,6 @@
             <td>{{$produs->data}}</td>
 
         </tr>
-
-
-
-
 
         @endforeach
 
